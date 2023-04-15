@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-12-13T13:24:50.008Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-12-13T13:24:00.008Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso de inglês",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 450,
+      "createdAt": "2022-12-13T13:20:50.008Z"
+    },
+    {
+      "id": 4,
+      "description": "Compra de Notebook",
+      "type": "outcome",
+      "category": "Setup",
+      "price": 5000,
+      "createdAt": "2022-11-13T13:24:00.008Z"
+    },
+    {
+      "description": "Geladeira",
+      "price": 2000,
+      "category": "Eletrodomésticos",
+      "type": "outcome",
+      "createdAt": "2022-12-14T18:33:30.218Z",
+      "id": 5
+    },
+    {
+      "description": "Café",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-14T18:34:05.622Z",
+      "id": 6
+    },
+    {
+      "description": "Cademia",
+      "price": 100,
+      "category": "Saúde",
+      "type": "outcome",
+      "createdAt": "2023-03-18T00:38:00.623Z",
+      "id": 7
+    }
+  ]
+}
